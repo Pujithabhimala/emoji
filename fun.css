@@ -1,0 +1,76 @@
+.face{
+    height:200px;
+    width:200px;
+    background-color:yellow;
+    border-radius: 50%;
+    position: relative;
+    display: flex;
+}
+
+.eye1{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    background-color: black;
+    border-radius:50% ;
+    margin-left: 30px;
+    margin-top:60px;
+}
+.eye1-1{
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    background-color:white;
+    border-radius:50% ;
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+.eye2{
+        position: absolute;
+        height: 40px;
+        width: 40px;
+        background-color: black;
+        border-radius:50% ;
+        margin-left: 130px;
+        margin-top:60px;
+    }
+    .eye2-1{
+        position: absolute;
+        height: 20px;
+        width: 20px;
+        background-color: white;
+        border-radius:50% ;
+        margin-left: 10px;
+        margin-top:10px;
+    }
+
+.Mouth{
+      height:30px;
+      width:80px;
+      background-color: rgb(28, 46, 46);
+      border: 5px solid red;
+      border-radius: 20%;
+      margin-left: 50px;
+      margin-top: 130px;
+      display: flex;
+      justify-content: space-around;
+      padding: 4px;
+      
+}
+.nose1{
+    height: 20px;
+    width:10px;
+    border-radius: 50%;
+    background-color: rgb(201, 246, 246);
+    padding: 2px;
+    
+}
+.nose2{
+    height: 20px;
+    width:10px;
+    border-radius: 50%;
+    background-color: rgb(201, 246, 246);
+    padding: 2px;
+    
+}
